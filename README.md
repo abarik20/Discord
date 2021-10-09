@@ -1,2 +1,2 @@
 # Discord
-This repository for Discord webhook push messages. 
+This is a Discord webhook push message repository. 
